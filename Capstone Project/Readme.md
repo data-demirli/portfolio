@@ -1,6 +1,6 @@
 # Predicting High Fire Risk Areas in Montreal
 
-## [Summary:](https://github.com/data-demirli/portfolio/blob/main/Capstone%20Project/High%20Fire%20Risk%20Areas.ipynb)
+## Summary:
 
 **Dataset:** The dataset is a list of building fire incidents in the city of Montreal spanning from Jan 2015 to Sept 2022. Includes features relating to the  incident and to the corresponding census tract area, aggregated from multiple sources.  
 **Model:** Classifies the census tract areas (out of 540) which are deemed high fire risk, as a prediction for the following month. Random Forest model and Logistic Regression model developed, with a baseline model for comparison.  
